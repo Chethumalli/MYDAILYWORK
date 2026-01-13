@@ -1,17 +1,15 @@
-document.getElementById("signupForm").addEventListener("submit", function (e) {
-  e.preventDefault();
+const screens = document.querySelectorAll(".screen");
 
-  const name = document.getElementById("name").value.trim();
-  const email = document.getElementById("email").value.trim();
-  const password = document.getElementById("password").value;
-  const error = document.getElementById("error");
+function hideAll() {
+  screens.forEach(screen => screen.classList.remove("active"));
+}
 
-  error.textContent = "";
+function showSignup() {
+  hideAll();
+  document.getElementById("signup").classList.add("active");
+}
 
-  if (password.length < 8) {
-    error.textContent = "Password must be at least 8 characters.";
-    return;
-  }
-
-  alert(`Welcome, ${name}! Signup successful 🎉`);
-});
+function showLogin() {
+  hideAll();
+  document.getElementById("login").classList.add("active");
+}

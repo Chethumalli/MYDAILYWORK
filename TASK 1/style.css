@@ -1,64 +1,113 @@
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
-  font-family: Arial, sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
-  background: linear-gradient(135deg, #667eea, #764ba2);
   height: 100vh;
+  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  /* Background image + gradient overlay */
+  background:
+    
+    url("https://wallpapercave.com/wp/wp5475511.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: -1;
 }
 
-.signup-container {
-  background: #fff;
-  padding: 25px;
-  width: 320px;
-  border-radius: 12px;
+.app {
+  width: 300px;
+  height: 520px;
+  position: relative;
+}
+
+.screen {
+  background: rgba(255,255,255,0.95);
+  border-radius: 25px;
+  padding: 22px;
   text-align: center;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transform: scale(0.9);
+  pointer-events: none;
+  transition: 0.5s ease;
 }
 
-.signup-container h2 {
-  margin-bottom: 5px;
+.screen.active {
+  opacity: 1;
+  transform: scale(1);
+  pointer-events: auto;
 }
 
-.signup-container p {
-  color: #666;
+.anime-img {
+  width: 150px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0); }
+}
+
+h2 {
+  color: #6a2fd8;
+  margin-bottom: 8px;
+}
+
+p {
+  font-size: 13px;
+  color: #555;
   margin-bottom: 20px;
 }
 
-.signup-container input {
+input {
   width: 100%;
-  padding: 12px;
-  margin: 10px 0;
-  border-radius: 8px;
-  border: 1px solid #ccc;
+  padding: 11px;
+  margin: 8px 0;
+  border-radius: 12px;
+  border: 1px solid #ddd;
 }
 
-.signup-container button {
+button {
   width: 100%;
   padding: 12px;
-  background: #667eea;
-  color: #fff;
+  background: linear-gradient(135deg, #6a2fd8, #9b5cff);
   border: none;
-  border-radius: 8px;
-  font-size: 16px;
+  color: white;
+  border-radius: 14px;
+  margin-top: 12px;
   cursor: pointer;
+  transition: 0.3s;
 }
 
-.signup-container button:hover {
-  background: #5a67d8;
+button:hover {
+  transform: scale(1.05);
 }
 
-.error {
-  color: red;
-  font-size: 14px;
-  margin: 5px 0;
-}
-
-small {
+span {
   display: block;
   margin-top: 15px;
+  font-size: 12px;
+  color: #6a2fd8;
+  cursor: pointer;
 }
