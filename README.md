@@ -46,72 +46,56 @@ Wireframes & Mockups – Visual design process
 Google Fonts & Icons – UI enhancement assets
 
 Future tasks may include prototypes, workflows, case studies, and more UI samples.
+-------------------------------------------------------------------------------------
 
 ✅ Task 2: Modern UI Component Development
 
-Task Name: Responsive Web UI Component
-Description:
-In Task 2, I designed and developed a modern, responsive web UI component/module that demonstrates advanced layout techniques and optimal user experience (UX) practices.
-The goal was to apply professional UI/UX standards to build a clean, interactive front-end component that works well across devices.
+📧 SkillSpark – Responsive Email Template
 
-🎯 Task Objectives
+Figma Design → HTML & CSS
 
-✔ Build a visually engaging UI component using HTML, CSS & JavaScript
-✔ Ensure responsive design for mobile, tablet & desktop
-✔ Improve interaction through hover/focus effects and clean layout
-✔ Demonstrate proper component structure and reusability
-✔ Follow accessibility best practices (semantic HTML, readable text)
+A modern, visually rich, and fully responsive marketing email template designed in Figma and converted into HTML & CSS.
+This project focuses on clean UI, strong visual hierarchy, and email-friendly development practices.
 
-🛠 Tools & Technologies Used
+✨ Project Overview
 
-HTML5 for structure
+This email template is created for an Online Learning / Skill Upgrade Campaign, featuring:
 
-CSS3 (Flexbox, Grid, animations)
+Eye-catching hero section
 
-JavaScript for interactivity
+Promotional offer badge
 
-Responsive design principles (media queries)
+Course preview cards with images
 
-Fonts & icons from Google Fonts or FontAwesome
+Clear call-to-action (CTA)
 
-Optional tooling: VS Code, Live Server
+Responsive and email-safe layout
 
-🔍 Features Implemented
+The design follows modern UI/UX principles inspired by professional LinkedIn email design showcases.
 
-🔹 Responsive Layout – Switches cleanly between screen sizes
-🔹 Interactive Elements – Buttons and cards with hover effects
-🔹 Semantic Markup – Improves accessibility & SEO
-🔹 Component Organization – Separate styles for maintainability
-🔹 Optimized for performance – Lightweight & fast loading
+🎯 Features
 
-📂 Files & Structure
-TASK 2/
-├── index.html
-├── assets/
-│   ├── styles.css
-│   └── script.js
-├── images/
-└── README.md
+📱 Fully Responsive – Works on desktop, tablet, and mobile
 
-📌 Preview
+🎨 Modern UI Design – Gradient header, cards, and badges
 
-Here’s how the component performs:
+🖼️ Image-Rich Layout – Hero image + course preview grid
 
-Works on mobile, tablet, and desktop
+🧩 Email-Safe Structure – Table-based layout for compatibility
 
-UI elements transition smoothly
+✏️ Easy Customization – Text, colors, images can be edited easily
 
-Clean typography and spacing
+🚀 Strong CTA Focus – Optimized for engagement & conversions
 
-(You can add screenshots or a link to a live demo here.)
+🛠️ Tech Stack
 
-🤝 Learning Outcomes
+Figma – UI/UX Design
 
-✔ Applied responsive design techniques
-✔ Built UI consistent with modern design principles
-✔ Improved code organization for real-world practices
-✔ Enhanced understanding of interaction and layout
+HTML5 – Structure
 
+CSS3 – Styling & responsiveness
+
+Table-based layout – Email client compatibility
 🧑‍💻 How to Run
 
 Clone the repo:
@@ -142,6 +126,7 @@ UI/UX Developer Intern
 ---
 
 ✨ *This repository is maintained as part of the UI/UX Development Internship and reflects consistent learning and task completion.*
+
 
 
 
