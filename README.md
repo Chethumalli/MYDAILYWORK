@@ -47,7 +47,6 @@ Google Fonts & Icons – UI enhancement assets
 
 Future tasks may include prototypes, workflows, case studies, and more UI samples.
 
-📘 README for Task 2 – Modern Web UI Component
 ✅ Task 2: Modern UI Component Development
 
 Task Name: Responsive Web UI Component
@@ -143,6 +142,7 @@ UI/UX Developer Intern
 ---
 
 ✨ *This repository is maintained as part of the UI/UX Development Internship and reflects consistent learning and task completion.*
+
 
 
 
