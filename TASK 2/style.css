@@ -1,144 +1,148 @@
 body {
   margin: 0;
-  padding: 0;
-  background: #eef2f7;
-  font-family: "Segoe UI", Arial, sans-serif;
+  background: #0e5873;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 .wrapper {
-  width: 100%;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 .container {
-  width: 600px;
   background: #ffffff;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
 
-/* Header */
+/* HEADER */
 .header {
-  background: linear-gradient(135deg, #4f46e5, #6366f1);
+  background: linear-gradient(135deg, #5b2cff, #3b82f6);
   color: #ffffff;
   text-align: center;
-  padding: 40px 20px;
+  padding: 24px;
 }
 
 .header h1 {
   margin: 0;
-  font-size: 28px;
+  font-size: 26px;
 }
 
 .header p {
-  margin-top: 8px;
+  margin: 4px 0 0;
+  font-size: 13px;
   opacity: 0.9;
 }
 
-/* Intro */
-.intro {
-  padding: 35px;
+/* HERO IMAGE */
+.hero-img {
+  width: 100%;
+  display: block;
+}
+
+/* HERO CONTENT */
+.hero-content {
+  padding: 28px;
   text-align: center;
 }
 
-.intro h2 {
-  color: #111827;
+.hero-content h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
 }
 
-.intro p {
-  color: #4b5563;
-  font-size: 15px;
-  line-height: 24px;
+.hero-content p {
+  color: #555;
+  font-size: 14px;
+  line-height: 1.6;
 }
 
-.btn {
+.offer-badge {
   display: inline-block;
-  margin-top: 20px;
-  padding: 12px 26px;
-  border-radius: 25px;
-  text-decoration: none;
+  background: #ffe4e6;
+  color: #e11d48;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 13px;
+  margin: 14px 0;
   font-weight: 600;
 }
 
-.primary {
-  background: #4f46e5;
+/* BUTTON */
+.cta-btn {
+  display: inline-block;
+  background: #3b82f6;
   color: #ffffff;
-}
-
-.secondary {
-  background: #111827;
-  color: #ffffff;
-}
-
-/* Features */
-.features {
-  padding: 20px 30px;
-}
-
-.feature-grid {
-  width: 100%;
-}
-
-.card {
-  background: #f9fafb;
-  border-radius: 10px;
-  padding: 20px;
-  text-align: center;
-}
-
-.icon {
-  font-size: 28px;
-}
-
-.card h3 {
-  margin-top: 12px;
-  color: #1f2937;
-}
-
-.card p {
+  padding: 12px 28px;
+  border-radius: 24px;
+  text-decoration: none;
   font-size: 14px;
-  color: #6b7280;
+  margin-top: 12px;
 }
 
-/* CTA */
-.cta {
-  background: #f3f4f6;
-  text-align: center;
-  padding: 30px;
-}
-
-/* Footer */
-.footer {
+.cta-btn.dark {
   background: #111827;
-  color: #9ca3af;
+}
+
+/* COURSES */
+.courses {
+  padding: 24px;
   text-align: center;
+}
+
+.courses h3 {
+  margin-bottom: 16px;
+}
+
+.course-card {
+  padding: 10px;
+}
+
+.course-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.course-card p {
+  margin-top: 6px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+/* BENEFITS */
+.benefits {
+  background: #f9fafb;
   padding: 20px;
+  text-align: center;
+}
+
+.benefit {
+  font-size: 13px;
+  color: #333;
+}
+
+/* FINAL CTA */
+.final-cta {
+  padding: 28px;
+  text-align: center;
+}
+
+/* FOOTER */
+.footer {
+  background: #f1f5f9;
+  text-align: center;
+  padding: 16px;
   font-size: 12px;
+  color: #666;
 }
 
 .footer a {
-  color: #a5b4fc;
+  color: #3b82f6;
   text-decoration: none;
 }
 
-/* Responsive */
-@media screen and (max-width: 600px) {
+/* RESPONSIVE */
+@media (max-width: 600px) {
   .container {
-    width: 100%;
-  }
-
-  .card {
-    display: block;
-    margin-bottom: 15px;
-  }
-}
-@media screen and (max-width: 400px) {
-  .intro h2 {
-    font-size: 20px;
-  }
-
-  .header h1 {
-    font-size: 24px;
+    width: 100% !important;
   }
 }
