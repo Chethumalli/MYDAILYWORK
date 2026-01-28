@@ -23,12 +23,13 @@ This repository contains practical assignments, design tasks, and learning outco
 
 **Chethan C Malli**  
 UI/UX Developer Intern  
-📧 Email: *(add if needed)*  
+📧 Email: chethumalli13@gmail.com  
 🔗 GitHub: https://github.com/Chethumalli
 
 ---
 
 ✨ *This repository is maintained as part of the UI/UX Development Internship and reflects consistent learning and task completion.*
+
 
 
 
