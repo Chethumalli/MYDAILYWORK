@@ -2,10 +2,6 @@
 
 Welcome to **MYDAILYWORK**, my official GitHub repository created to document and submit all tasks completed during my **UI/UX Development Internship**.
 
-This repository contains practical assignments, design tasks, and learning outcomes completed as part of the internship requirements.
-
----
-
 ## 📌 Internship Overview
 
 - **Internship Domain:** UI/UX Development  
@@ -29,6 +25,7 @@ UI/UX Developer Intern
 ---
 
 ✨ *This repository is maintained as part of the UI/UX Development Internship and reflects consistent learning and task completion.*
+
 
 
 
