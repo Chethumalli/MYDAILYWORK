@@ -106,7 +106,7 @@ Applying UI/UX to offline/print-style designs
 Menu readability and decision-making UX
 
 Typography hierarchy in content-heavy layouts
-
+<pre>
 📂 Repository Structure
 📁 MYDAILYWORK
  ├── 📁 Task-1-Signup-Page
@@ -116,7 +116,7 @@ Typography hierarchy in content-heavy layouts
  ├── 📁 Task-3-Restaurant-Menu
  │    └── Canva Design Files
  └── 📄 README.md
-
+</pre>
 🚀 Skills Gained
 
 UI/UX Design Fundamentals
@@ -134,6 +134,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
