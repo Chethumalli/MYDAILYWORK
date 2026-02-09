@@ -1,4 +1,4 @@
-### 🎨 UI/UX Internship – MyDailyWork
+# 🎨 UI/UX Internship – MyDailyWork
 📁 MYDAILYWORK Internship Tasks
 
 This repository contains the tasks completed as part of the UI/UX Internship at MyDailyWork.
@@ -134,6 +134,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
