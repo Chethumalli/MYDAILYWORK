@@ -22,7 +22,7 @@ Usability & readability
 
 Real-world UI applications
 
-### 📌 Task 1: Signup Page UI Design
+## 📌 Task 1: Signup Page UI Design
 🔍 Description
 
 Designed a mobile signup page with a clean, minimal, and intuitive layout to ensure a smooth user onboarding experience.
@@ -136,6 +136,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
