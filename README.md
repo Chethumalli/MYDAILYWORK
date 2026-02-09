@@ -51,7 +51,7 @@ Applying UI/UX fundamentals
 
 Designing for simplicity and accessibility
 
-### 📌 Task 2: Promotional Email Template Design
+## 📌 Task 2: Promotional Email Template Design
 🔍 Description
 
 Designed a marketing email template for a flash sale campaign with strong visuals and a clear call-to-action to drive engagement.
@@ -136,6 +136,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
