@@ -118,7 +118,8 @@ Typography hierarchy in content-heavy layouts
  │    └── Canva Design Files
  └── 📄 README.md
 </pre>
-🚀 Skills Gained
+
+### 🚀 Skills Gained
 
 UI/UX Design Fundamentals
 
@@ -135,6 +136,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
