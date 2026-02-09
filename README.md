@@ -4,7 +4,7 @@
 This repository contains the tasks completed as part of the UI/UX Internship at MyDailyWork.
 Each task focuses on applying user-centered design principles using modern design tools and real-world use cases.
 
-🧠 Internship Overview
+### 🧠 Internship Overview
 
 Domain: UI/UX Design
 
@@ -27,7 +27,7 @@ Real-world UI applications
 
 Designed a mobile signup page with a clean, minimal, and intuitive layout to ensure a smooth user onboarding experience.
 
-🛠 Tool Used
+### 🛠 Tool Used
 
 Figma
 
@@ -134,6 +134,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
