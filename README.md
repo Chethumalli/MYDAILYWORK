@@ -106,8 +106,9 @@ Applying UI/UX to offline/print-style designs
 Menu readability and decision-making UX
 
 Typography hierarchy in content-heavy layouts
+
+### 📂 Repository Structure
 <pre>
-📂 Repository Structure
 📁 MYDAILYWORK
  ├── 📁 Task-1-Signup-Page
  │    └── Figma Design Files
@@ -134,6 +135,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
