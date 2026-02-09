@@ -80,7 +80,7 @@ Conversion-focused layout design
 
 Importance of CTA and visual balance
 
-### 📌 Task 3: Restaurant Menu Design
+## 📌 Task 3: Restaurant Menu Design
 🔍 Description
 
 Designed a restaurant fast-food menu layout focusing on clear categorization, pricing visibility, and attractive food presentation.
@@ -136,6 +136,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
