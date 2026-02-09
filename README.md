@@ -85,7 +85,7 @@ Importance of CTA and visual balance
 
 Designed a restaurant fast-food menu layout focusing on clear categorization, pricing visibility, and attractive food presentation.
 
-🛠 Tool Used
+### 🛠 Tool Used
 
 Canva
 
@@ -134,6 +134,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
