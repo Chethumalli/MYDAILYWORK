@@ -56,7 +56,7 @@ Designing for simplicity and accessibility
 
 Designed a marketing email template for a flash sale campaign with strong visuals and a clear call-to-action to drive engagement.
 
-🛠 Tool Used
+### 🛠 Tool Used
 
 Canva
 
@@ -134,6 +134,7 @@ Tools: Figma, Canva
 🤝 Connect With Me
 
 Feel free to connect with me on LinkedIn to follow my UI/UX learning journey and future projects.
+
 
 
 
